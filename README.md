@@ -1,9 +1,9 @@
 ### Olá eu sou o Kod4
 
-💸・Programação & Marketing,<br>
-⏳・Atualmente estudando para ser Full Stack,<br>
-🎼・Gosto de Trap, Eletrônica, Funk, Sertanejo e Pagode,<br>
-❄️・Trabalho atualmente com Freelancer e Criações de API, sites entre outros,<br>
+💸・Programação & Marketing;<br>
+⏳・Atualmente estudando para ser Full Stack;<br>
+🎼・Gosto de Trap, Eletrônica, Funk, Sertanejo e Pagode;<br>
+❄️・Trabalho atualmente com Freelancer e Criações de API, sites entre outros;<br>
 
 ##
 
