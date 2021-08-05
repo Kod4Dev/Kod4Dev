@@ -6,7 +6,7 @@
 ❄️・Trabalho atualmente com Freelancer e Criações de API, sites entre outros;<br><br>
 
 <div>
-  <a href="https://github.com/kod4dev">
+  <a href="https://github.com/kod4dev" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kod4dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kod4dev&layout=compact&langs_count=16&theme=midnight-purple">
 </div>
