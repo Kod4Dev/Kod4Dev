@@ -22,5 +22,3 @@
 
     
 ![Snake animation](https://github.com/kod4dev/kod4dev/blob/output/github-contribution-grid-snake.svg)
-
-<img src='https://discord.c99.nl/widget/theme-3/896852131343118416.png'>
