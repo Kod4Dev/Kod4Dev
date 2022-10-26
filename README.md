@@ -2,7 +2,7 @@
 
 💸・Programação & Marketing;<br>
 ⏳・Atualmente estudando para ser Front End Developer;<br>
-🎼・Gosto de Trap, Eletrônica, Funk, Sertanejo e Pagode;<br>
+🎼・Gosto de Lo-fi, Eletrônica;<br>
 ❄️・Trabalho atualmente com Freelancer e Criações de API, sites entre outros;<br><br>
 
 <div>
