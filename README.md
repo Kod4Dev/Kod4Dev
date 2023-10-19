@@ -2,7 +2,7 @@
 
 💸・Programação & Marketing;<br>
 ⏳・Atualmente estudando para ser Front End Developer;<br>
-🎼・Gosto de Lo-fi, Eletrônica;<br>
+🎼・Gosto de Phonky, Sertanejo;<br>
 ❄️・Trabalho atualmente com Freelancer e Criações de API, sites entre outros;<br><br>
 
 <div>
@@ -19,6 +19,3 @@
   <a href="https://dsc.gg/rkgstore" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/koda.lua" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br>
-
-    
-![Snake animation](https://github.com/kod4dev/kod4dev/blob/output/github-contribution-grid-snake.svg)
