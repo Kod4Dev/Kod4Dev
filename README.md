@@ -1,7 +1,7 @@
 ### Olá eu sou o Kod4
 
 💸・Programação & Marketing;<br>
-⏳・Atualmente estudando para ser Front End Developer;<br>
+⏳・Atualmente estudando para ser Back End Developer;<br>
 🎼・Gosto de Phonky, Sertanejo;<br>
 ❄️・Trabalho atualmente com Freelancer e Criações de API, sites entre outros;<br><br>
 
